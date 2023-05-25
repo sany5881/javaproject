@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="day">день</string>
+    <string name="pressure">Атм. давление</string>
+    <string name="wind">Ветер</string>
+    <string name="humidity">Влажность</string>
+    <string name="enter_city_name">Введите город</string>
+    <string name="updated_at">Обновлено в</string>
+</resources>

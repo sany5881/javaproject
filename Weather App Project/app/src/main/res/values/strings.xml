@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="mic_desc" translatable="false">Микрофон для поиска</string>
+    <string name="day">день</string>
+    <string name="pressure">Атм. давление</string>
+    <string name="wind">Ветер</string>
+    <string name="humidity">Влажность</string>
+    <string name="enter_city_name">Введите город</string>
+    <string name="updated_at">Обновлено в</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+
+    <string name="thunderstorm">Гроза</string>
+    <string name="drizzle">Изморось</string>
+    <string name="rain">Дождь</string>
+    <string name="snow">Снег</string>
+    <string name="clear_day">Ясно</string>
+    <string name="clear_night">Ясно</string>
+    <string name="few_clouds_day">Облачно</string>
+    <string name="few_clouds_night">Облачно</string>
+    <string name="scattered_clouds">Переменная облачность</string>
+    <string name="broken_clouds">Тучи</string>
+
+
+    <string name="clear">Ясно</string>
+    <string name="few_clouds">Облачно</string>
+</resources>
